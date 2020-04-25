@@ -1,1 +1,43 @@
-why kotlin over java
+Why Kotlin
+
+- JVM Laungutage 
+	- It need JVM to execute its bytecode.
+	
+- Support to avoid NullPointerException.
+
+- Support Immutability.
+
+- Object Oriented Launguage.
+
+- Functional
+	- You can pass a function as parameter to another function.
+	- Or, a function can return another function.
+	
+- Less ceremony
+	- No More boilerplates.
+	- Less code, more result.
+	- Code looks clean.
+	
+/************************************************************************/	
+
+Types of apps that can be build using kotlin
+
+- Server-side Apps
+	Spring Boot, vert.x,JSF,Ktor.
+	
+- Android Development
+
+- Web Development
+	kotlin/JS.
+	
+- Desktop Applications
+	JavaFx,TornadoFx.
+	
+- Native Development
+	kotlin/Native Library.
+	
+/**************************************************************************/
+
+Apps Built on Kotlin
+
+- Slack, EverNote, Udacity, Pinterest, Reddit, NetFlix, JiraCloud, NovaLauncher, Juno, Pocket,  etc....
