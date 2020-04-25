@@ -1,0 +1,7 @@
+fun main(args: Array<String>){
+    // This is a inline comment...
+    /* This is a multiline comment... **/
+}
+
+// for inline comment
+/* **/ for multiline comment
