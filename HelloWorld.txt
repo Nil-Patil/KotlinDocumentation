@@ -1,0 +1,11 @@
+
+fun main(args: Array<String>){
+    println("Hello World")
+}
+
+- In ordet to execute any java code jvm demand class files.
+- Kotlin needs JVM in runtime similar to java.
+- In kotlin we dont have any class defined in the top.
+- Kotlin create class internally, 
+- The kotlin compiler internally creates a Class file which is loaded into memory for ececution in runtime.
+	
